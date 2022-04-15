@@ -1,6 +1,4 @@
-# ChulaMOOC
-
-# Intro to Data Analytics and Big Data
+# ChulaMOOC # Intro to Data Analytics and Big Data
 
 ## เกี่ยวกับรายวิชา
 
